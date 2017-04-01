@@ -1,0 +1,270 @@
+#mobile_device .reveal  .ONLY_TITLE p {
+	font-size: 400%;
+}
+
+.reveal .ONLY_TITLE_PARAGRAPH h2 {
+	font-size: 183px;
+}
+
+.reveal .ONLY_TITLE_PARAGRPH_IMAGE h2 {
+	font-size: 96px;
+}
+
+.reveal .ONLY_TITLE_PARAGRPH_IMAGE img {
+		width: 178%;	
+}
+
+.reveal .ONLY_TITLE_PARAGRAPH p {
+}
+
+.reveal .ONLY_PARAGRAPH p {
+}
+
+.reveal .ONLY_PARAGRAPH_IMAGE img {
+	width: 178%;	
+}
+
+.reveal .ONLY_TITLE_LIST h2 {
+	font-size: 180%;
+	margin-top: 86px;
+}
+
+.reveal .ONLY_TITLE_LIST ol {
+	margin-top: 100px;
+}
+
+.reveal .ONLY_TITLE_LIST ol li {
+	font-size: 150%;
+	line-height: 2;
+	list-style: none;
+}
+
+.reveal .ONLY_TITLE_TREE h2 {
+}
+
+.reveal .ONLY_TITLE_TREE ol {
+}
+
+.reveal .ONLY_TITLE_TREE ol li {
+}
+
+.reveal .ONLY_TITLE_TREE  .parent_tree_item {
+}
+
+.reveal .ONLY_TITLE_TREE  .child_tree_item {
+}
+
+.reveal .ONLY_TITLE_TABLE h2, .reveal .ONLY_TITLE_TABLE_TITLE_TABLE h2,
+	.ONLY_TITLE_TABLE_PARAGRAPH h2 {
+}
+
+.reveal .ONLY_TITLE_TABLE table, .reveal .ONLY_TITLE_TABLE_TITLE_TABLE table,
+	.reveal .ONLY_TITLE_TABLE_PARAGRAPH table {
+}
+
+.reveal .ONLY_TITLE_TABLE table td, .reveal .ONLY_TITLE_TABLE_TITLE_TABLE table td
+	{
+}
+
+.ONLY_TITLE_TABLE_TITLE_TABLE h2.second_heading {
+	font-size: 220%;
+	margin-top: 50px;
+}
+
+.ONLY_TITLE_TABLE_TITLE_TABLE h2.first_heading {
+	font-size: 220%;
+	margin-top: -650px;
+}
+
+.reveal .ONLY_TITLE_TABLE_PARAGRAPH h2 {
+	font-size: 220%;
+}
+
+.reveal .ONLY_TITLE_TABLE_PARAGRAPH table td {
+}
+
+.reveal .ONLY_TITLE_TABLE_PARAGRAPH p {
+	margin-top: 50px;
+	font-size: 180%;
+}
+
+.reveal .ONLY_TITLE_IMAGE img {
+	width: 100%;
+}
+
+.reveal .ONLY_2TITLE_IMAGE img {
+	width: 100%;
+}
+
+.reveal .ONLY_2TITLE_IMAGE h2 {
+	font-size: 95px;
+}
+
+.reveal .ONLY_2TITLE_IMAGE h3 {
+	font-size: 170px;
+}
+
+.reveal .IDEAS_LIST___ONLY_TITLE_LIST h2 {
+	margin-top: -36%;
+	text-align: left;
+}
+
+.reveal .ONLY_TITLE_LIST ol {
+	display: block;
+}
+
+.reveal .ONLY_TITLE_LIST {
+	
+}
+
+.reveal .ONLY_TITLE h2 {
+	font-size: 183px;
+}
+
+.reveal .ONLY_TITLE_IMAGE h2 {
+	font-size: 96px;
+}
+
+.reveal  .SIMPLE_LIST___ONLY_TITLE_LIST h2 {
+	font-size: 220%;
+	margin-top: -20%;
+}
+
+.reveal  .SIMPLE_LIST___ONLY_TITLE_LIST ol li div {
+	font-size: 140%;
+	list-style: none;
+}
+
+.reveal  .ONLY_TITLE_LIST h2 {
+	font-size: 220%;
+	margin-top: -20%;
+}
+
+.reveal  .ONLY_TITLE_LIST ol li {
+	font-size: 180%;
+	list-style: none;
+}
+
+.reveal .IDEAS_LIST___ONLY_TITLE_LIST {
+	background: white
+}
+
+.reveal .IDEAS_LIST___ONLY_TITLE_LIST #bg_image {
+	display: block;
+	background-image: url("/content/assets/img/mobile_referece1.png");
+	background-size: cover;
+	margin-left: -52px;
+	height: 1964px;
+	margin-top: -484px;
+	position: absolute;
+	/* top: -1135px; */
+	left: -1px;
+	width: 1000px;
+}
+
+.reveal .IDEAS_LIST___ONLY_TITLE_LIST ol {
+	border: 1px solid red;
+	margin-top: -498px;
+	z-index: 10;
+}
+
+.reveal .IDEAS_LIST___ONLY_TITLE_LIST ol  li:first-child div {
+	color: red;
+	margin-top: 480px;
+}
+
+.reveal .IDEAS_LIST___ONLY_TITLE_LIST ol li div {
+	display: block;
+	font-size: 200%;
+	line-height: 2;
+	list-style: none;
+	background: #fcd006;
+	min-width: 1153px;
+	margin-bottom: 87px;
+	z-index: 10 !important;
+	margin-left: -420px;
+	padding-left: 986px;
+	margin-top: 120px;
+	z-index: 10;
+}
+
+/* .reveal .shape {
+	margin: auto;
+}
+.reveal .one {
+	width: 0;
+	height: 0;
+	border-left: 50px solid transparent;
+	border-right: 50px solid transparent;
+	border-bottom: 60px solid #9E9E9E;
+}
+.reveal .one:hover {
+	border-bottom: 60px solid #CFCFCF;			
+}
+.reveal .two {
+	border-bottom: 75px solid #6CC9EA;
+	border-left: 60px solid transparent;
+	border-right: 60px solid transparent;
+	height: 0;
+	width: 100px;
+}
+.reveal .two:hover {
+	border-bottom: 75px solid #92DCF4;			
+}
+.reveal .three {
+	border-bottom: 100px solid #1DB259;
+	border-left: 80px solid transparent;
+	border-right: 80px solid transparent;
+	height: 0;
+	width: 220px;
+}
+.reveal .three:hover {
+	border-bottom: 100px solid #51D988;			
+} */
+.reveal .game h1 {
+	font-size: 32px;
+}
+
+.reveal .game ul li, .reveal .game p {
+	font-size: 23px;
+}
+
+.OCTOPUS_LIST___ONLY_TITLE_LIST h2 {
+	margin-top: -46%;
+}
+
+.BURGER_LIST___ONLY_TITLE_LIST h2 {
+	margin-top: -46%;
+}
+
+.reveal .ONLY_2TITLE_TREE h1 {
+	font-size: 170px;
+}
+
+.reveal .ONLY_2TITLE_TREE h2 {
+	font-size: 95px;
+}
+
+.reveal .ONLY_2TITLE_TREE h3 {
+	font-size: 80px;
+}
+
+.reveal .ONLY_2TITLE_TREE h4 {
+	font-size: 80px;
+}
+
+.reveal .ONLY_2TITLE_TREE h5 {
+	font-size: 80px;
+}
+
+.reveal .ONLY_2TITLE_TREE h6 {
+	font-size: 80px;
+}
+
+.reveal .ONLY_2TITLE h2 {
+	font-size: 95px;
+}
+
+.reveal .ONLY_2TITLE h3 {
+	font-size: 170px;
+}

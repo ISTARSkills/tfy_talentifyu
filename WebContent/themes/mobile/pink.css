@@ -1,0 +1,44 @@
+body {
+   background-image: url('/content/impress/themes/citylights.png') !important;
+		background-size: cover  !important;
+}
+
+
+
+.slide.blank  {
+    display: block;
+    width: 960px;
+    height: 1701px;
+    /* border-radius: 24px; */
+    background-color: rgba(0, 0, 0, 0);
+    /* border: 2px solid rgba(0, 0, 0, .3); */
+    color: black;
+    background-image: url('/content/impress/themes/window.png');
+    background-size: cover;padding: 81px;
+}
+
+.slide.indexxx  {
+  display: block;
+    width: 1050px;
+    height: 1701px;
+    /* border-radius: 24px; */
+    /* border: 2px solid rgba(0, 0, 0, .3); */
+    color: white;
+    background-size: cover;
+    padding: 81px;
+    
+ background: 
+    linear-gradient( rgba(0, 0, 0, 0.45), rgba(255, 0, 0, 0.45) ), url('/content/impress/themes/citylights.png');
+    }
+
+.slide.item  {
+  display: block;
+    width: 960px;
+    height: 1701px;
+    /* border-radius: 24px; */
+    background-color: black;
+    /* border: 2px solid rgba(0, 0, 0, .3); */
+    color: black;
+    background-image: url('/content/impress/themes/window.png');
+    background-size: cover;padding: 81px;
+}

@@ -1,0 +1,346 @@
+@CHARSET "ISO-8859-1";
+
+svg>text {
+	display: none
+}
+
+body {
+	background: #e2e1e0;
+	text-align: center;
+}
+
+.gcard {
+	background: #fff;
+	border-radius: 2px;
+	display: inline-block;
+	min-height: 300px;
+	margin: 0.5rem;
+	position: relative;
+	width: 95%;
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.16), 0 2px 4px rgba(0, 0, 0, 0.23);
+}
+
+hr.horizontal-line {
+	style ="width: 100%;
+	height: 1px;
+}
+
+hr.vertical-line {
+	margin: 0;
+	border-top: none;
+	height: 12vh;
+}
+
+.gcard.percentiles {
+	min-height: 12vh
+}
+
+.percentiles.test {
+	width: 66%;
+}
+
+.test-card-holder {
+	padding-left: 4px;
+	text-align: left;
+	background-size: 28%;
+	background-position-y: 80%;
+	background-position-x: 98%;
+	background-repeat: no-repeat;
+}
+
+.page-header {
+	padding: 10px 5.5rem !important;
+	vertical-align: middle;
+	border-bottom: 1px solid #a94442;
+}
+
+.test-card-holder span.timestamp {
+	float: right;
+	font-size: 1rem;
+	margin-right: 0.5rem;
+	color: #1ab394;
+}
+
+.tab-pane {
+	padding-top: 10px
+}
+
+.item-3 {
+	position: relative;
+	float: left;
+	width: 33%;
+	height: 12vh;
+	padding: 3px;
+}
+
+.item-4 {
+	position: relative;
+	float: left;
+	width: 25%;
+	height: 12vh;
+	padding: 3px;
+}
+
+.item-2 {
+	position: relative;
+	float: left;
+	width: 50%;
+	height: 6vh;
+	padding: 3px;
+}
+
+.item-2>a>span {
+	font-size: 20px;
+	color: black;
+	font-family: sans-serif;
+	padding: 2px;
+}
+
+.i-arrow {
+	position: absolute;
+	top: 1.5rem;
+}
+
+.i-arrow.right {
+	right: 1.5rem;
+}
+
+.i-arrow.left {
+	left: 1.5rem;
+}
+
+.gpanel-tab-header  .item-2 {
+	color: black;
+	background-color: #eeeeee;
+	padding: 1.5rem 0.5rem;
+	height: 8vh;
+}
+
+.item-2.active {
+	background-color: white;
+}
+
+.bleft {
+	border-left: rgba(0, 0, 0, 0.20) 1px solid;
+}
+
+.bright {
+	border-right: rgba(0, 0, 0, 0.20) 1px solid;
+}
+
+.bright.white {
+	border-color: #f5f5f5;
+}
+
+.bleft.white {
+	border-color: #f5f5f5;
+}
+
+.bbottom {
+	border-bottom: rgba(0, 0, 0, 0.07) 1px solid;
+}
+
+.btop {
+	border-top: rgba(0, 0, 0, 0.07) 1px solid;
+}
+
+.gpanel-header {
+	color: black;
+	min-height: 8vh;
+	padding: 10px;
+	font-size: 25px;
+}
+
+.gpanel-tab-header {
+	min-height: 8vh;
+}
+
+.mb0 {
+	margin-bottom: 0;
+}
+
+.mt0 {
+	margin-top: 0;
+}
+
+.ml0 {
+	margin-left: 0;
+}
+
+.mr0 {
+	margin-right: 0;
+}
+
+i.toggle-visibility {
+	float: right;
+	margin-right: 2%;
+	line-height: 4.5vh;
+}
+
+.mydropdown {
+	margin-top: 2%;
+	margin-left: -5rem;
+	background-color: white;
+	width: 94%;
+	z-index: 1000000000;
+	font-size: 15px;
+	position: fixed;
+}
+
+.graph_container {
+	height: 41vh;
+	padding: 0%;
+	padding-bottom: 1vh;
+	width: 100%;
+	width: 98%;
+    padding-left: 1%;
+}
+
+.mimic-header {
+	
+}
+
+path {
+	stroke: #1ab394;
+	stroke-width: 2px;
+}
+
+.highcharts-grid path {
+	stroke-width: 0;
+}
+
+.highcharts-axis path {
+	stroke-width: 1px;
+	stroke: #eeeeee;
+}
+
+.right-top {
+	position: absolute;
+	right: 0.5rem;
+	top: 0.5rem;
+}
+
+.right-bottom {
+	position: absolute;
+	right: 0.5rem;
+	bottom: 0.5rem;
+}
+
+.left-top {
+	position: absolute;
+	left: 0.5rem;
+	top: 0.5rem;
+}
+
+.left-bottom {
+	position: absolute;
+	left: 0.5rem;
+	bottom: 0.5rem;
+}
+
+.top-middle {
+	position: absolute;
+	top: 0.5rem;
+	right: 30%;
+}
+
+.bottom-middle {
+	right: 30%;
+	position: absolute;
+	bottom: 0.5rem;
+}
+
+.center {
+	top: 25%;
+	left: 25%;
+	position: absolute;
+}
+
+.percentiles  span.middle {
+	font-size: 1.5rem;
+	right: 35%;
+}
+
+img.z3 {
+	zoom: 3%;
+}
+
+img.z25 {
+	zoom: 25%;
+}
+
+img.z14 {
+	zoom: 14%;
+}
+
+img.z18 {
+	zoom: 18%;
+	top: 1.1rem;
+}
+
+.percentiles span {
+	font-size: 2rem;
+	color: #774924;
+	font-family: sans-serif;
+}
+
+.qustion-text {
+	text-align: left;
+	width: 100% !important;
+	height: 31vh !important;
+	overflow: scroll !important;
+}
+
+.explanation-text {
+	text-align: left;
+	width: 100% !important;
+	height: 31vh !important;
+	overflow: scroll !important;
+}
+
+.question.percentiles.gcard {
+	width: 98%;
+	margin-top: 80%;
+	background: #666; /*rgba(119, 119, 119, 0.7);*/
+	padding: 0;
+}
+
+.question.percentiles span {
+	font-size: 1.5rem;
+	color: white;
+	font-family: sans-serif;
+}
+
+span.small {
+	text-align: left;
+	font-size: 1.1rem;
+	line-height: 1.5rem;
+	width: 50%;
+}
+
+.r0 {
+	right: 0rem !important;
+}
+
+.header-span {
+	text-align: left;
+	margin: 0.5rem;
+	margin-left: 1.0rem;
+	font-size: 14px;
+}
+
+.gdivider {
+	padding-top: 10px;
+	border-top: rgba(0, 0, 0, 0.07) 1px solid;
+}
+
+.gcard.single {
+	min-height: 12vh;
+	height: 22vh;
+	padding-top: 1.2rem;
+}
+
+.gcard-child {
+	margin: -10px 10px;
+	background: #e0e0e0;
+}

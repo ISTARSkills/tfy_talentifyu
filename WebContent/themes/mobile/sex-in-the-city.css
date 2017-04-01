@@ -1,0 +1,22 @@
+body {
+   background-image: url('https://c3.staticflickr.com/6/5086/5241376554_8125a371f2_n.jpg') !important;
+		background-size: cover  !important;
+}
+
+
+.slide.blank {
+    
+}
+
+
+.slide.indexxx  {
+     display: block !important;
+    width: 1044px !important;
+    height: 2130px !important;
+    border-radius: none !important;
+    /* border: 2px solid rgba(0, 0, 0, .3); */
+    color: #1B1919;
+    background-size: cover;
+    background: white;
+    margin-top: -117px;
+}

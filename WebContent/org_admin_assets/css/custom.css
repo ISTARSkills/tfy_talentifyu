@@ -1,0 +1,47 @@
+.login-screen-box {    
+	background-color: white;
+    width: 400px;
+    align-self: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    padding: 2%
+}
+
+@media (max-width: 768px) {
+  .login-screen-box {
+    height: 100vh;
+    width: 100vw;
+    margin-top: 0%;
+    padding: 10%
+  }
+}
+
+.login-button {
+  background-color: #01d099;
+}
+ 
+.big-fa-icon{
+  margin-top: 10%;
+  font-size: 735%;
+}
+
+.add-step {
+	position: absolute;
+}
+
+.toggle-on-hover:hover .hide-on-hover{
+	display: none;
+}
+.toggle-on-hover .hide-on-hover{
+	display: block;
+}
+
+.toggle-on-hover .show-on-hover {
+	display: none;
+}
+
+.toggle-on-hover:hover .show-on-hover {
+	display: block;
+}
